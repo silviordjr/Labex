@@ -356,7 +356,7 @@ function ApplicationFormPage () {
                                 <option value="Ilhas Cook">Ilhas Cook</option>
                                 <option value="Ilhas Curaçao">Ilhas Curaçao</option>
                                 <option value="Ilhas Marshall">Ilhas Marshall</option>
-                                <option value="Ilhas Turks & Caicos">Ilhas Turks & Caicos</option>
+                                <option value="Ilhas Turks e Caicos">Ilhas Turks e Caicos</option>
                                 <option value="Ilhas Virgens (brit.)">Ilhas Virgens (brit.)</option>
                                 <option value="Ilhas Virgens(amer.)">Ilhas Virgens(amer.)</option>
                                 <option value="Ilhas Wallis e Futuna">Ilhas Wallis e Futuna</option>
@@ -424,7 +424,7 @@ function ApplicationFormPage () {
                                 <option value="Singapura">Singapura</option>
                                 <option value="Síria">Síria</option>
                                 <option value="Sri Lanka">Sri Lanka</option>
-                                <option value="St. Kitts & Nevis">St. Kitts & Nevis</option>
+                                <option value="St. Kitts e Nevis">St. Kitts e Nevis</option>
                                 <option value="St. Lúcia">St. Lúcia</option>
                                 <option value="St. Vincent">St. Vincent</option>
                                 <option value="Sudão">Sudão</option>
@@ -435,7 +435,7 @@ function ApplicationFormPage () {
                                 <option value="Taiwan">Taiwan</option>
                                 <option value="Tanzânia">Tanzânia</option>
                                 <option value="Togo">Togo</option>
-                                <option value="Trinidad & Tobago">Trinidad & Tobago</option>
+                                <option value="Trinidad e Tobago">Trinidad e Tobago</option>
                                 <option value="Tunísia">Tunísia</option>
                                 <option value="Turquia">Turquia</option>
                                 <option value="Ucrânia">Ucrânia</option>
